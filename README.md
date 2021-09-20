@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**rohandhanraj/rohandhanraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- :boy: I'm 𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿
 - 🔭 I’m currently working on Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision and NLPs using Python along with Deployment of AI applications using CI/CD Pipeline
 - 👯 I’m looking to collaborate on Data Science and AI Internship projects
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ![𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿](https://www.linkedin.com/in/rohan-dhanraj-yadav/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
