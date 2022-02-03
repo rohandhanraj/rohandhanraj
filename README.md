@@ -10,3 +10,8 @@
 - 📫 How to reach me: [𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿](https://www.linkedin.com/in/rohan-dhanraj-yadav/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohandhanraj&show_icons=true&locale=en&layout=compact" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohandhanraj&show_icons=true&locale=en" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /></p>>
