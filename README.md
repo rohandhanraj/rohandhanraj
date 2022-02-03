@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on Data Science and AI Internship projects
 - 🤔 I’m looking for help with Data Science and AI application
 - 💬 Ask me about Data Science and AI
-- 📫 How to reach me: ![𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿](https://www.linkedin.com/in/rohan-dhanraj-yadav/)
+- 📫 How to reach me: [𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿](https://www.linkedin.com/in/rohan-dhanraj-yadav/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
