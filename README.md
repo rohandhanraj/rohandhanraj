@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohandhanraj&label=Profile%20views&color=0e75b6&style=flat" alt="𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿" /> </p>
 
 - :boy: I'm 𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿
-- 🔭 I’m currently working on Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision and NLPs using Python along with Deployment of AI applications using CI/CD Pipeline
-- 👯 I’m looking to collaborate on Data Science and AI Internship projects
-- 🤔 I’m looking for help with Data Science and AI application
-- 💬 Ask me about Data Science and AI
+- 🔭 Innovative Software Engineer, navigating the tech cosmos with a stellar track record in AI Application Odyssey.
+- 🌱 A maestro of code orchestrating symphonies in Machine Learning, NLP, Neural Networks, and the avant-garde realm of Generative AI.
+- 👯 A virtuoso multitasker, seamlessly weaving through projects with the finesse of a seasoned conductor.
+- 🤔 Fueled by an insatiable curiosity, I'm a tech explorer, always on a quest to conquer new knowledge frontiers and breathe life into cutting-edge tech creations.
+- 💬 Ask me about Data Science | ML | DL | NLP | GenAI
 - 📫 How to reach me: [𝓡𝓸𝓱𝓪𝓷 𝓓𝓱𝓪𝓷𝓻𝓪𝓳 𝓨𝓪𝓭𝓪𝓿](https://www.linkedin.com/in/rohan-dhanraj-yadav/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
